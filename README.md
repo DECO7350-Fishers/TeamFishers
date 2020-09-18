@@ -1,3 +1,3 @@
-<h1> Design Process
-<h2> Research
+# Design Process
+Research
 `2012-2013`
