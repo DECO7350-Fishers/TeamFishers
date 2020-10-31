@@ -110,5 +110,6 @@ We use fun and appropriate metaphors (ranking and chatbox) to enhance the vividn
 
 
 #### Prototype demonstrations & Presentations
+* [Demonstration](https://github.com/DECO7350-Fishers/TeamFishers/wiki/Demonstration)
 
 ***
